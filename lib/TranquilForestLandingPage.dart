@@ -63,7 +63,7 @@ class TranquilForestLandingPage extends StatelessWidget {
     );
   }
 
-  // Method to create activity cards with placeholders for future functionality
+
   Widget _activityCard(String activityName, BuildContext context, IconData icon,
       String description) {
     return GestureDetector(
